@@ -1,0 +1,1240 @@
+[10-Dec-2024 21:55:03 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:04:29 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:05:12 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:05:32 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:06:41 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:07:08 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:07:46 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:07:56 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:15:24 Europe/Berlin] Hello, errors!
+[10-Dec-2024 22:15:40 Europe/Berlin] Hello, errors!
+[11-Dec-2024 14:11:39 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:09:36 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:09:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Bramus\Router\Router" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php:5
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require()
+#1 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php on line 5
+[11-Dec-2024 15:25:54 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:26:08 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:27:04 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:28:04 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:33:57 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:34:07 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:57:25 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:57:55 Europe/Berlin] Hello, errors!
+[11-Dec-2024 15:59:58 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:00:55 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:01:51 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:03:02 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:03:07 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:04:14 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:04:20 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:04:22 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:05:27 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:05:40 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:07:26 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:07:30 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:07:52 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:08:15 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:56:11 Europe/Berlin] Hello, errors!
+[11-Dec-2024 16:56:17 Europe/Berlin] Hello, errors!
+[11-Dec-2024 17:09:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 17:09:58 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:08:34 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:09:03 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:09:30 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:09:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:10:01 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:10:18 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:10:21 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:12:01 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:12:14 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:16:07 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:16:11 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:16:26 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:16:38 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:16:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:16:55 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:17:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:17:53 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:20:08 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:23:54 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:28:27 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:28:40 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:28:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:28:56 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:33:07 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:33:16 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:33:45 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:33:47 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:37:08 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:37:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:37:32 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:37:54 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:38:02 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:41:12 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:43:31 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:43:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:45:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:46:28 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:46:30 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:46:37 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:46:37 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 18:46:37 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(73): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[11-Dec-2024 18:47:00 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:47:00 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 18:47:00 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(73): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[11-Dec-2024 18:47:03 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:47:03 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 18:47:03 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(73): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[11-Dec-2024 18:47:06 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:47:11 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:47:46 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:47:48 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:47:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:02 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:07 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:09 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:31 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:39 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:40 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:53 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:55 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:52:59 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:53:16 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:55:04 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:55:11 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:56:42 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:56:42 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:56:44 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:57:32 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:57:34 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:57:37 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:57:48 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:57:49 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:57:55 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:27 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:30 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:38 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:38 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 18:58:38 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(73): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[11-Dec-2024 18:58:51 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:52 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:59 Europe/Berlin] Hello, errors!
+[11-Dec-2024 18:58:59 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 18:58:59 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(73): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[11-Dec-2024 19:03:37 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:03:38 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:03:47 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:03:47 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 19:07:19 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:07:24 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:07:34 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:07:34 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 19:13:44 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:13:47 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:13:47 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 19:13:47 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:16:49 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:23:37 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:23:38 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:23:47 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:23:47 Europe/Berlin] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for  localhost failed: Host desconocido. 
+[11-Dec-2024 19:23:47 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:24:36 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:24:38 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:24:45 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:24:45 Europe/Berlin] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for  localhost failed: Host desconocido. 
+[11-Dec-2024 19:27:00 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:27:01 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:27:09 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:27:09 Europe/Berlin] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for  localhost failed: Host desconocido. 
+[11-Dec-2024 19:27:44 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:27:45 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:27:52 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:27:52 Europe/Berlin] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for  localhost failed: Host desconocido. 
+[11-Dec-2024 19:29:43 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:29:44 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:29:52 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:29:52 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_email' in 'where clause'
+[11-Dec-2024 19:31:56 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:32:02 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:32:40 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:33:11 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:33:11 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_email' in 'where clause'
+[11-Dec-2024 19:35:14 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:35:15 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:35:20 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:35:20 Europe/Berlin] SQLSTATE[HY093]: Invalid parameter number
+[11-Dec-2024 19:38:40 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:38:41 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:38:46 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:45:07 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:45:08 Europe/Berlin] Hello, errors!
+[11-Dec-2024 19:45:29 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:05:33 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:05:35 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:05:41 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:05:41 Europe/Berlin] A database has already been specified for this key.
+[11-Dec-2024 20:09:31 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:09:32 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:09:33 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:10:02 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:10:03 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:10:09 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:28:04 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:28:05 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:28:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:28:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:23
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User->__construct('david@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 23
+[11-Dec-2024 20:29:51 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:29:52 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:29:58 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:29:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: Could not connect to database (redbean_practica). in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:1105
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(798): RedBeanPHP\Driver\RPDO->connect()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('show tables', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1196): RedBeanPHP\Driver\RPDO->GetAll('show tables', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4396): RedBeanPHP\Driver\RPDO->GetCol('show tables', Array)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(7313): RedBeanPHP\Adapter\DBAdapter->getCol('show tables')
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6254): RedBeanPHP\QueryWriter\MySQL->getTables()
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8723): RedBeanPHP\QueryWriter\AQueryWriter->tableExists('prueba')
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8825): RedBeanPHP\Repository->tableExists('prueba')
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8958): RedBeanPHP\Repository\Fluid->createTableIfNotExists(Object(RedBeanPHP\OODBBean), 'prueba')
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(83): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User->save()
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#15 [internal function]: {closure}()
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#18 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#19 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#20 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#21 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 1105
+[11-Dec-2024 20:34:13 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:34:14 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:35:31 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:40:35 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:40:37 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:42:16 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:44:54 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:44:58 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:45:38 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:45:56 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:49:01 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:49:03 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:49:12 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:49:12 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid type: tipo_peticion in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:16007
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(16081): RedBeanPHP\Util\DispenseHelper::checkType('tipo_peticion')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12859): RedBeanPHP\Util\DispenseHelper::dispense(Object(RedBeanPHP\OODB), 'tipo_peticion', 1, false)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(91): RedBeanPHP\Facade::dispense('tipo_peticion')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(26): David\ProyectoDayOff\models\User->typeRequest()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#5 [internal function]: {closure}()
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 16007
+[11-Dec-2024 20:50:39 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:50:41 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:50:50 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:50:50 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid type: tipo_peticion in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:16007
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(16081): RedBeanPHP\Util\DispenseHelper::checkType('tipo_peticion')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12859): RedBeanPHP\Util\DispenseHelper::dispense(Object(RedBeanPHP\OODB), 'tipo_peticion', 1, false)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(91): RedBeanPHP\Facade::dispense('tipo_peticion')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(26): David\ProyectoDayOff\models\User->typeRequest()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#5 [internal function]: {closure}()
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 16007
+[11-Dec-2024 20:58:03 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:58:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:58:18 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:58:18 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid type: tipo_peticion in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:16007
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(16081): RedBeanPHP\Util\DispenseHelper::checkType('tipo_peticion')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12859): RedBeanPHP\Util\DispenseHelper::dispense(Object(RedBeanPHP\OODB), 'tipo_peticion', 1, false)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(91): RedBeanPHP\Facade::dispense('tipo_peticion')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(26): David\ProyectoDayOff\models\User->typeRequest()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#5 [internal function]: {closure}()
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 16007
+[11-Dec-2024 20:59:53 Europe/Berlin] Hello, errors!
+[11-Dec-2024 20:59:55 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:00:00 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:02:56 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:02:57 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:03:13 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:04:02 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:04:04 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:04:10 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:04:10 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(75): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[11-Dec-2024 21:12:12 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:12:13 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:12:21 Europe/Berlin] Hello, errors!
+[11-Dec-2024 21:12:21 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(75): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[12-Dec-2024 13:49:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:50:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:51:26 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:51:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:23
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User->__construct('david@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 23
+[12-Dec-2024 13:56:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:56:06 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:56:07 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:56:13 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:56:44 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:56:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:25
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User->__construct('david@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 25
+[12-Dec-2024 13:57:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:57:13 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:57:18 Europe/Berlin] Hello, errors!
+[12-Dec-2024 13:57:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:25
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User->__construct('david@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 25
+[12-Dec-2024 14:01:05 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:01:07 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:01:13 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:01:13 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(75): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(25): David\ProyectoDayOff\models\User->insert()
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#12 [internal function]: {closure}()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[12-Dec-2024 14:01:56 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:02:58 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:03:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:48:27 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:48:29 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:48:31 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:48:31 Europe/Berlin] PHP Fatal error:  Cannot declare interface RedBeanPHP\Logger, because the name is already in use in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 19
+[12-Dec-2024 14:53:58 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:54:00 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:54:05 Europe/Berlin] Hello, errors!
+[12-Dec-2024 14:54:05 Europe/Berlin] PHP Fatal error:  Cannot declare interface RedBeanPHP\Logger, because the name is already in use in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 19
+[12-Dec-2024 14:57:54 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:10:00 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:10:02 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:10:08 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:10:08 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: RedBeanPHP\Util\DispenseHelper::dispense(): Argument #1 ($oodb) must be of type RedBeanPHP\OODB, null given, called in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12859 and defined in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:16057
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12859): RedBeanPHP\Util\DispenseHelper::dispense(NULL, 'roles', 1, false)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php(12): RedBeanPHP\Facade::dispense('roles')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(31): David\ProyectoDayOff\models\Role->createRole()
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 16057
+[12-Dec-2024 15:14:34 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:14:53 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:15:10 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:15:10 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: RedBeanPHP\Util\DispenseHelper::dispense(): Argument #1 ($oodb) must be of type RedBeanPHP\OODB, null given, called in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12859 and defined in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:16057
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12859): RedBeanPHP\Util\DispenseHelper::dispense(NULL, 'tipopeticion', 1, false)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(91): RedBeanPHP\Facade::dispense('tipopeticion')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(28): David\ProyectoDayOff\models\User->typeRequest()
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 16057
+[12-Dec-2024 15:16:44 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:16:45 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:17:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:17:18 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:17:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:25
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User->__construct('albeo@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 25
+[12-Dec-2024 15:18:07 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:18:08 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:18:15 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:18:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:25
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User->__construct('albeo@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 25
+[12-Dec-2024 15:18:51 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:18:52 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:18:59 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:19:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:26
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User->__construct('david@correo.co...', 'David', '1234')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 26
+[12-Dec-2024 15:19:20 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:19:39 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:21:02 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:21:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:21:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:27:10 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:27:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:27:16 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:27:16 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:28:09 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:28:10 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:28:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:28:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:30:15 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:30:16 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:30:17 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:30:24 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:30:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:30:39 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:05 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:06 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:06 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:31:06 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php on line 22
+[12-Dec-2024 15:31:27 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:28 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:29 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:31:29 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:32:35 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:32:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:32:38 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php on line 22
+[12-Dec-2024 15:32:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:32:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:32:49 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:32:49 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:32:49 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php on line 22
+[12-Dec-2024 15:33:12 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:13 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:33:21 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:22 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:31 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:33:37 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:37 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:39 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:33:41 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:28 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:29 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:34:29 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:34:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:37:31 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:37:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:37:33 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:52:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:52:12 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:52:13 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:52:13 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:53:27 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:53:28 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:53:29 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:53:29 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:53:45 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:53:45 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:53:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:53:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 15:54:56 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:54:57 Europe/Berlin] Hello, errors!
+[12-Dec-2024 15:54:58 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:00:54 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:02:59 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:03:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:03:01 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot assign string to property David\ProyectoDayOff\lib\Model::$db of type David\ProyectoDayOff\lib\Database in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:21
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(15): David\ProyectoDayOff\lib\Model->__construct()
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User->__construct('', '', '')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 21
+[12-Dec-2024 16:04:13 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:04:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:04:19 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:04:53 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:04:54 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:04:56 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:09:53 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:10:00 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:10:02 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:25:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:25:41 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:25:42 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:25:57 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:26:17 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:26:18 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:27:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:27:55 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:28:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:35:23 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:35:24 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:35:25 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:35:25 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Bean has incomplete Meta Information id  in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:8368
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8956): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(45): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php(33): David\ProyectoDayOff\lib\Model->storeElement(Object(RedBeanPHP\OODBBean))
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(33): David\ProyectoDayOff\models\Role->updateRole(6, 'lider')
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#8 [internal function]: {closure}()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8368
+[12-Dec-2024 16:41:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:41:39 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:41:42 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:41:42 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Bean has incomplete Meta Information id  in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:8368
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8956): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php(34): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(33): David\ProyectoDayOff\models\Role->updateRole(6, 'lider')
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#7 [internal function]: {closure}()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#13 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8368
+[12-Dec-2024 16:43:21 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:43:22 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:43:23 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:43:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php on line 37
+[12-Dec-2024 16:44:35 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:44:36 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:44:37 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:45:29 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:45:44 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:45:45 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:47:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:47:59 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:48:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:48:01 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Bean has incomplete Meta Information id  in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:8368
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8956): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php(35): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(33): David\ProyectoDayOff\models\Role->updateRole(6, 'lider')
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#7 [internal function]: {closure}()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#13 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8368
+[12-Dec-2024 16:51:06 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:51:07 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:51:08 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:51:08 Europe/Berlin] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Bean has incomplete Meta Information id  in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:8368
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8956): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php(36): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(33): David\ProyectoDayOff\models\Role->updateRole(6, 'lider')
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#7 [internal function]: {closure}()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#13 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8368
+[12-Dec-2024 16:52:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:52:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:52:05 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:23 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:23 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:25 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:31 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:31 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:32 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:55:55 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:15 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:16 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:16 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:24 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:56:25 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:57:45 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:57:46 Europe/Berlin] Hello, errors!
+[12-Dec-2024 16:57:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:00:58 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:00:59 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:01:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:04:01 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:04:02 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:04:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:15:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:15:16 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:15:33 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:15:33 Europe/Berlin] PHP Fatal error:  Uncaught [42S22] - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `us...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1215): RedBeanPHP\Driver\RPDO->GetAll('INSERT INTO `us...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4455): RedBeanPHP\Driver\RPDO->GetOne('INSERT INTO `us...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6213): RedBeanPHP\Adapter\DBAdapter->getCell('INSERT INTO `us...', Array, 0)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6344): RedBeanPHP\QueryWriter\AQueryWriter->insertRecord('usuarios', Array, Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8979): RedBeanPHP\QueryWriter\AQueryWriter->updateRecord('usuarios', Array, 0)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8534): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9636): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12606): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(45): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(29): David\ProyectoDayOff\lib\Model->storeElement(Object(RedBeanPHP\OODBBean))
+#11 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(26): David\ProyectoDayOff\models\User->save()
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(34): David\ProyectoDayOff\controllers\SignUp->register()
+#13 [internal function]: {closure}()
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#17 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(41): Bramus\Router\Router->run()
+#18 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#19 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[12-Dec-2024 17:15:48 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:17:48 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:20:40 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:20 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:24 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:26 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:26 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:39 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:41 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:40:42 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:41:29 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:41:30 Europe/Berlin] Hello, errors!
+[12-Dec-2024 17:41:31 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:39:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:39:39 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:39:40 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:39:51 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:39:52 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:39:53 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:40:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:40:10 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:40:12 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:40:12 Europe/Berlin] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= David   -- keep-cache' at line 1
+trace: #0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(1175): RedBeanPHP\Driver\RPDO->runQuery('SELECT `prueba`...', Array)
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(4374): RedBeanPHP\Driver\RPDO->GetAll('SELECT `prueba`...', Array)
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(6625): RedBeanPHP\Adapter\DBAdapter->get('SELECT `prueba`...', Array)
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(8464): RedBeanPHP\QueryWriter\AQueryWriter->queryRecord('prueba', Array, 'username == Dav...', Array)
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(9584): RedBeanPHP\Repository->find('prueba', Array, 'username == Dav...', Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(10210): RedBeanPHP\OODB->find('prueba', Array, 'username == Dav...', Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php(12950): RedBeanPHP\Finder->find('prueba', 'username == Dav...', Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::find('prueba', 'username == Dav...')
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\Role.php(24): David\ProyectoDayOff\lib\Model->getAllElements('prueba', 'username == Dav...')
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(27): David\ProyectoDayOff\models\Role->getAllRoles()
+#10 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#11 [internal function]: {closure}()
+#12 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#13 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#14 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#15 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(43): Bramus\Router\Router->run()
+#16 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 838
+[12-Dec-2024 18:43:32 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:43:33 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:43:35 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:44:41 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:44:42 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:44:43 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:58:46 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:58:47 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:58:49 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:58:54 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:58:55 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:58:56 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:59:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:59:05 Europe/Berlin] Hello, errors!
+[12-Dec-2024 18:59:06 Europe/Berlin] Hello, errors!
+[12-Dec-2024 19:33:48 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:42:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:42:23 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:42:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:42:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:42:41 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:43:58 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:43:59 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:44:00 Europe/Berlin] Hello, errors!
+[12-Dec-2024 21:44:00 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 8643
+[12-Dec-2024 21:44:41 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:28:56 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:29:11 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:29:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:57
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 57
+[12-Dec-2024 22:31:03 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:31:04 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:31:14 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:31:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:57
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 57
+[12-Dec-2024 22:32:22 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:32:23 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:32:49 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:32:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:57
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 57
+[12-Dec-2024 22:33:21 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:33:22 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:33:27 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:33:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12950
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::find('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12950
+[12-Dec-2024 22:34:38 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:34:40 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:34:45 Europe/Berlin] Hello, errors!
+[12-Dec-2024 22:34:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 13:50:10 Europe/Berlin] Hello, errors!
+[13-Dec-2024 13:51:30 Europe/Berlin] Hello, errors!
+[13-Dec-2024 13:52:39 Europe/Berlin] Hello, errors!
+[13-Dec-2024 13:52:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 13:59:59 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:00:01 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:00:03 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:00:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(24): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:00:54 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:00:55 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:00:59 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:00:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:01:06 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:01:06 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:01:18 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:01:21 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:01:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(22): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:02:35 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:02:36 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:02:41 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:02:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(33): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:02:46 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:02:47 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:02:51 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:02:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(57): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:03:24 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:03:26 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:03:31 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:03:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(58): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:03:53 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:03:55 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:04:03 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:04:08 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:04:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(58): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 14:13:04 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:13:05 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:13:12 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:13:12 Europe/Berlin] PHP Fatal error:  Cannot declare interface RedBeanPHP\Logger, because the name is already in use in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 19
+[13-Dec-2024 14:14:42 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:14:44 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:14:47 Europe/Berlin] Hello, errors!
+[13-Dec-2024 14:14:47 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:08:10 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:08:26 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:08:27 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:08:32 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:08:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:58
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 58
+[13-Dec-2024 15:10:52 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:10:52 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:10:59 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:10:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php:12964
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php(58): RedBeanPHP\Facade::findAll('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#3 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#4 [internal function]: {closure}()
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#9 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\rb-mysql.php on line 12964
+[13-Dec-2024 15:11:14 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:11:15 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:11:20 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:11:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:58
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = davi...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('david')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 58
+[13-Dec-2024 15:11:35 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:11:36 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:11:42 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:11:42 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:13:33 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:13:39 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:21:37 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:22:13 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:22:23 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:22:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "R" not found in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php:57
+Stack trace:
+#0 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\models\User.php(32): David\ProyectoDayOff\lib\Model::getAllElements('users', 'username = Pedr...')
+#1 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\controllers\SignUp.php(23): David\ProyectoDayOff\models\User::exists('Pedro')
+#2 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(36): David\ProyectoDayOff\controllers\SignUp->register()
+#3 [internal function]: {closure}()
+#4 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(458): call_user_func_array(Object(Closure), Array)
+#5 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(440): Bramus\Router\Router->invoke(Object(Closure), Array)
+#6 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\vendor\bramus\router\src\Bramus\Router\Router.php(287): Bramus\Router\Router->handle(Array, true)
+#7 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\routes.php(48): Bramus\Router\Router->run()
+#8 C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\index.php(15): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\cursoPHP\practicas\Proyecto_DayOff\src\lib\Model.php on line 57
+[13-Dec-2024 15:22:51 Europe/Berlin] Hello, errors!
+[13-Dec-2024 15:22:53 Europe/Berlin] Hello, errors!

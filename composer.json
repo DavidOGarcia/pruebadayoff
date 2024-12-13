@@ -1,0 +1,19 @@
+{
+    "name": "david/proyecto_day-off",
+    "autoload": {
+        "psr-4": {
+            "David\\ProyectoDayOff\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DavidOGarcia",
+            "email": "61890783+DavidOGarcia@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "bramus/router": "~1.6",
+        "nesbot/carbon": "^3.8"
+    }
+}
